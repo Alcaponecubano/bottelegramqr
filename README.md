@@ -1,0 +1,2 @@
+# bottelegramqr
+BOT DE TELEGRAM GENERADOR DE QR

@@ -15,7 +15,7 @@ pip install -r requirements.txt
 export BOT_TOKEN="tu_token_aqui"
 python bot.py
 
-✨ Características
+###✨ Características
 
     Interfaz con botones interactivos
 
